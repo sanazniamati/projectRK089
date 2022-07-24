@@ -1,7 +1,7 @@
 {
   "name": "react-konva-transformer-on-polygon",
   "description": "Basic demo of using react with canvas element.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "keywords": [],
   "dependencies": {
     "konva": "8.0.2",
